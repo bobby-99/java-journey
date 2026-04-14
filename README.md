@@ -4,6 +4,7 @@ A collection of my daily Java practice, DSA problems, and small projects.
 
 ## Structure
 
+* `assignments/` → Assignments provided by Kunal Kushwaha
 * `basics/` → Core Java concepts and exercises
 * `dsa/` → Problem-solving (arrays, patterns, etc.)
 * `projects/` → Mini projects applying concepts
