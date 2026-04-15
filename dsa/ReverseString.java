@@ -1,5 +1,5 @@
 class ReverseString {
-    public static String reverseString(String s) {
+    public static String main(String s) {
         char[] arr = s.toCharArray();
         int l = 0, r = arr.length - 1;
         while (l < r) {

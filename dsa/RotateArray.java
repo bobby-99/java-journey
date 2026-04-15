@@ -20,7 +20,16 @@
 // }
 
 // O(1) solution
-class Solution {
+
+import java.util.Arrays;
+
+class RotateArray {
+    public static void main() {
+        int[] myArr = { 3, 1, 2, 3, 5, 6 };
+        rotateArr(myArr, 5);
+        System.out.println(Arrays.toString(myArr));
+    }
+
     static void rotateArr(int arr[], int d) {
         d = d % arr.length;
         int n = arr.length;

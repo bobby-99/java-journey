@@ -1,4 +1,4 @@
-class Solution {
+class LargestInArray {
     public static int largest(int[] arr) {
         int largest = arr[0];
         int length = arr.length;
