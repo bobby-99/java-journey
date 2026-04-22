@@ -1,3 +1,5 @@
+package gfg.Arrays;
+
 public class Main {
 
     static int solve(String S) {

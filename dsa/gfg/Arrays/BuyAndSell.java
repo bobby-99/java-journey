@@ -1,4 +1,4 @@
-package gfg;
+package gfg.Arrays;
 
 public class BuyAndSell {
     public int maxProfit(int[] prices) {

@@ -1,4 +1,4 @@
-package gfg;
+package gfg.Arrays;
 
 public class Main {
     public static void main(String[] args) {

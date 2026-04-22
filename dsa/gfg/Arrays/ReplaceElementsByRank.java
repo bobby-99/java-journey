@@ -1,3 +1,4 @@
+package gfg.Arrays;
 
 // User function Template for Java
 import java.util.*;

@@ -1,3 +1,5 @@
+package gfg.Arrays;
+
 import java.util.*;
 
 public class Main {
